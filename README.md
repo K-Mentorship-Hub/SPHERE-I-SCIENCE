@@ -4,7 +4,7 @@
 
 [![Org](https://img.shields.io/badge/GitHub-K--Mentorship--Hub-black)](https://github.com/K-Mentorship-Hub)
 [![Sphere](https://img.shields.io/badge/Sphere%20I-Science-2d6cdf)](https://github.com/K-Mentorship-Hub/SPHERE-I-SCIENCE)
-[![Stack](https://img.shields.io/badge/stack-Notion%20%2B%20Discord%20%2B%20GitHub-purple)](https://github.com/K-Mentorship-Hub)
+[![Stack](https://img.shields.io/badge/stack-GitHub%20%2B%20Discord%20%2B%20Tally-purple)](https://github.com/K-Mentorship-Hub)
 
 *Explore the domain. Understand the question. Connect it to a practical next step.*
 
@@ -71,6 +71,19 @@ This sphere helps people:
 
 ---
 
+## Practical Specialties
+
+This sphere is the strongest home for:
+
+- `HealthTech & MedTech`
+- `BioTech & PharmaTech`
+- `ClimateTech`
+- `AgriTech`
+- `FoodTech`
+- `EdTech` when it starts from learning science, cognition, or measurable systems
+
+---
+
 ## How This Sphere Appears Inside KMH
 
 ### Academy
@@ -130,8 +143,8 @@ That keeps structure clean while preserving hybrid logic.
 ## Source Of Truth
 
 - `GitHub` for structure, docs, and contribution flow
-- `Notion` for guidebook, intake, and routing
 - `Discord` for live interaction and lightweight discussion
+- `Tally` for intake and opt-in matching
 
 ---
 
