@@ -126,6 +126,16 @@ Broader support notes live in the central org docs.
 
 ---
 
+## Starter Practice
+
+See:
+
+- [`PRACTICE-TASKS.md`](./PRACTICE-TASKS.md)
+
+Use these tasks for solo practice, forks, and contribution drafts.
+
+---
+
 ## Practical Rule
 
 Do not force every science-facing idea into a pure science box forever.
