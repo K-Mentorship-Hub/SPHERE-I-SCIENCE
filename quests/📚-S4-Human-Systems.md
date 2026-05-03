@@ -192,3 +192,36 @@ After completing these quests, check your signals:
 - 💼 **Want to build an EdTech product?** → [SPHERE-II Entrepreneurship](https://github.com/K-Mentorship-Hub/SPHERE-II-ENTREPRENEURSHIP), direction E1
 - 🤖 **Need tech tools for learning platforms?** → [SPHERE-III Technology](https://github.com/K-Mentorship-Hub/SPHERE-III-TECHNOLOGY), direction T3
 - 🧠 **Related science direction** → K-RnD-Lab S7 — Learning & Cognition
+
+---
+
+## 📋 Progress Tracker
+
+| Quest | Time | Status |
+|-------|------|--------|
+| S4.1 — 7-Day Self-Tracking | ~7 days (15 min/day) | ⬜ |
+| S4.2 — Research-to-Beginner Note | ~30 min | ⬜ |
+| S4.3 — Anti-Chaos Guide | ~45 min | ⬜ |
+| S4.4 — Curriculum Audit | ~45 min | ⬜ |
+| S4.5 — Teach-Back Exercise | ~30 min | ⬜ |
+
+**Total estimated time: ~3 hours + 7-day experiment**
+
+Mark completed quests with ✅ in your fork.
+
+---
+
+## 🎯 The Big Picture
+
+Complete all quests and your learning-science map will evolve:
+
+| Stage | Unlocked By |
+|-------|-------------|
+| 🧠 Self-Experimenter | Quest S4.1 |
+| 📝 Knowledge Translator | Quest S4.2 |
+| 🗂️ Chaos Fighter | Quest S4.3 |
+| 🔍 Critical Auditor | Quest S4.4 |
+| 🎓 Clarity Teacher | Quest S4.5 |
+| 🏆 Learning-Systems Ready | All Quests Complete |
+
+**You started wanting to learn better. You ended with a structured understanding of how learning works — and how to design it for others.** 🎉

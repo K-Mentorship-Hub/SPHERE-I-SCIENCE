@@ -189,3 +189,36 @@ After completing these quests, check your signals:
 - 💼 **Want to build an AgTech venture?** → [SPHERE-II Entrepreneurship](https://github.com/K-Mentorship-Hub/SPHERE-II-ENTREPRENEURSHIP), direction E1
 - 🤖 **Need sensors/IoT for agriculture?** → [SPHERE-III Technology](https://github.com/K-Mentorship-Hub/SPHERE-III-TECHNOLOGY), direction T4
 - 🌿 **Related science direction** → [🌿 S2 — Green / Sustainability](https://github.com/K-Mentorship-Hub/SPHERE-I-SCIENCE/blob/main/quests/%F0%9F%8C%BF-S2-Green-Sustainability.md)
+
+---
+
+## 📋 Progress Tracker
+
+| Quest | Time | Status |
+|-------|------|--------|
+| S3.1 — Category Map | ~30 min | ⬜ |
+| S3.2 — Starter Project Brief | ~45 min | ⬜ |
+| S3.3 — Evaluation Checklist | ~30 min | ⬜ |
+| S3.4 — Supply Chain Trace | ~45 min | ⬜ |
+| S3.5 — Yield vs. Waste Analysis | ~60 min | ⬜ |
+
+**Total estimated time: ~3.5 hours**
+
+Mark completed quests with ✅ in your fork.
+
+---
+
+## 🎯 The Big Picture
+
+Complete all quests and your food-systems map will evolve:
+
+| Stage | Unlocked By |
+|-------|-------------|
+| 🌾 Category Aware | Quest S3.1 |
+| 📋 Project Designer | Quest S3.2 |
+| ✅ Critical Evaluator | Quest S3.3 |
+| 🔍 Supply Chain Tracer | Quest S3.4 |
+| 📊 Waste Analyst | Quest S3.5 |
+| 🏆 Food-Systems Ready | All Quests Complete |
+
+**You started curious about food and farming. You ended with a structured map from field to table, with waste hotspots and tech opportunities.** 🎉

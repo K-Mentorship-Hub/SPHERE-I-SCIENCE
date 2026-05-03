@@ -213,3 +213,36 @@ After completing these quests, check your signals:
 - 💼 **Want to build a green venture?** → [SPHERE-II Entrepreneurship](https://github.com/K-Mentorship-Hub/SPHERE-II-ENTREPRENEURSHIP), direction E1
 - 🤖 **Need tech tools for environmental monitoring?** → [SPHERE-III Technology](https://github.com/K-Mentorship-Hub/SPHERE-III-TECHNOLOGY), direction T4
 - 🌾 **Related science direction** → [🌾 S3 — AgTech & Food Security](https://github.com/K-Mentorship-Hub/SPHERE-I-SCIENCE/blob/main/quests/%F0%9F%8C%BE-S3-AgTech-Food.md)
+
+---
+
+## 📋 Progress Tracker
+
+| Quest | Time | Status |
+|-------|------|--------|
+| S2.1 — Problem Mapping | ~30 min | ⬜ |
+| S2.2 — Resource Ladder | ~30 min | ⬜ |
+| S2.3 — Sphere Classification | ~30 min | ⬜ |
+| S2.4 — Carbon Math | ~45 min | ⬜ |
+| S2.5 — Policy Brief | ~60 min | ⬜ |
+
+**Total estimated time: ~3.5 hours**
+
+Mark completed quests with ✅ in your fork.
+
+---
+
+## 🎯 The Big Picture
+
+Complete all quests and your sustainability map will evolve:
+
+| Stage | Unlocked By |
+|-------|-------------|
+| 🌍 Problem Aware | Quest S2.1 |
+| 📚 Resource Curator | Quest S2.2 |
+| 🔀 Cross-Sphere Thinker | Quest S2.3 |
+| 📊 Carbon Literate | Quest S2.4 |
+| 📋 Policy Ready | Quest S2.5 |
+| 🏆 Sustainability Navigator | All Quests Complete |
+
+**You started worried about the planet. You ended with a structured map of problems, data, and policy paths.** 🎉

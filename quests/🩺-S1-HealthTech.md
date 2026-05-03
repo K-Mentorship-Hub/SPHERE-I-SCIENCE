@@ -245,3 +245,36 @@ After completing these quests, check your signals:
 - 🔬 **Go deeper?** → [K-RnD-Lab S1 — Biomedical & Oncology](https://github.com/TEZv/K-RnD-Lab-PHYLO-DEMO_03-2026)
 - 💼 **Want to build a health MVP?** → [SPHERE-II Entrepreneurship](https://github.com/K-Mentorship-Hub/SPHERE-II-ENTREPRENEURSHIP), direction E1
 - 🤖 **Need tech tools for health data?** → [SPHERE-III Technology](https://github.com/K-Mentorship-Hub/SPHERE-III-TECHNOLOGY), direction T1
+
+---
+
+## 📋 Progress Tracker
+
+| Quest | Time | Status |
+|-------|------|--------|
+| S1.1 — Glossary Deep-Dive | ~30 min | ⬜ |
+| S1.2 — Resource Comparison | ~45 min | ⬜ |
+| S1.3 — Problem Map | ~60 min | ⬜ |
+| S1.4 — Evidence Rating | ~45 min | ⬜ |
+| S1.5 — Regulatory Obstacle Course | ~60 min | ⬜ |
+
+**Total estimated time: ~4 hours**
+
+Mark completed quests with ✅ in your fork.
+
+---
+
+## 🎯 The Big Picture
+
+Complete all quests and your health-tech map will evolve:
+
+| Stage | Unlocked By |
+|-------|-------------|
+| 🧪 Science Literate | Quest S1.1 |
+| 📚 Resource Navigator | Quest S1.2 |
+| 🗺️ Problem Mapper | Quest S1.3 |
+| 🔍 Evidence Skeptic | Quest S1.4 |
+| 🏛️ Regulatory Aware | Quest S1.5 |
+| 🏆 Health-Tech Ready | All Quests Complete |
+
+**You started curious about health tech. You ended with a structured map of problems, evidence, and regulatory reality.** 🎉
