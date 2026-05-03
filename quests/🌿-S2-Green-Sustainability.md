@@ -69,7 +69,7 @@ Sustainability science is about **understanding Earth systems and finding levera
 
 </details>
 
-> 🪞 **Reflection:** Did the systems-level thinking engage you or overwhelm you?
+> 💭 **Reflection:** Did the systems-level thinking engage you or overwhelm you?
 
 ---
 
@@ -91,7 +91,7 @@ Sustainability science is about **understanding Earth systems and finding levera
 | 4️⃣ | | | |
 | 5️⃣ | | | |
 
-> 🪞 **Reflection:** Did you enjoy curating and ordering information?
+> 💭 **Reflection:** Did you enjoy curating and ordering information?
 
 ---
 
@@ -113,7 +113,7 @@ Sustainability science is about **understanding Earth systems and finding levera
 
 3. ✍️ Write one paragraph: "The most impactful approach is ___ because ___"
 
-> 🪞 **Reflection:** Do you naturally think across boundaries, or do you prefer staying in one domain?
+> 💭 **Reflection:** Do you naturally think across boundaries, or do you prefer staying in one domain?
 
 ---
 
@@ -152,7 +152,7 @@ Sustainability science is about **understanding Earth systems and finding levera
 
 </details>
 
-> 🪞 **Reflection:** Did the numbers surprise you? Did you want to calculate more?
+> 💭 **Reflection:** Did the numbers surprise you? Did you want to calculate more?
 
 ---
 
@@ -177,7 +177,7 @@ Sustainability science is about **understanding Earth systems and finding levera
 2. 📚 Use at least 2 data sources (cite them)
 3. ✂️ Keep it under 500 words — policymakers don't read long documents
 
-> 🪞 **Reflection:** Could you handle writing for decision-makers who may not share your urgency?
+> 💭 **Reflection:** Could you handle writing for decision-makers who may not share your urgency?
 
 ---
 

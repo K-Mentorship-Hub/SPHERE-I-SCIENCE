@@ -63,7 +63,7 @@ HealthTech and biomedical work sits at the intersection of **evidence, regulatio
 
 </details>
 
-> 🪞 **Reflection:** Did you enjoy translating complexity into clarity?
+> 💭 **Reflection:** Did you enjoy translating complexity into clarity?
 
 ---
 
@@ -97,7 +97,7 @@ HealthTech and biomedical work sits at the intersection of **evidence, regulatio
 
 </details>
 
-> 🪞 **Reflection:** Was the analytical comparison satisfying, or did you want to just start learning from one?
+> 💭 **Reflection:** Was the analytical comparison satisfying, or did you want to just start learning from one?
 
 ---
 
@@ -132,7 +132,7 @@ Try one of these real problems:
 
 </details>
 
-> 🪞 **Reflection:** Did you naturally start thinking about solutions, or did you want to understand the problem deeper first?
+> 💭 **Reflection:** Did you naturally start thinking about solutions, or did you want to understand the problem deeper first?
 
 ---
 
@@ -170,7 +170,7 @@ Try one of these real problems:
 
 </details>
 
-> 🪞 **Reflection:** Did this make you more skeptical? More curious? Both?
+> 💭 **Reflection:** Did this make you more skeptical? More curious? Both?
 
 ---
 
@@ -210,7 +210,7 @@ Try one of these real problems:
 
 </details>
 
-> 🪞 **Reflection:** Could you handle the patience and precision this process requires?
+> 💭 **Reflection:** Could you handle the patience and precision this process requires?
 
 ---
 

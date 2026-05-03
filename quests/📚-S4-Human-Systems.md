@@ -29,7 +29,7 @@ Learning science studies **how people acquire, retain, and apply knowledge**.
 | 🔄 Spaced repetition | Memory decays exponentially; review at increasing intervals |
 | 🎯 Deliberate practice | Focused practice + feedback beats mindless repetition |
 | 🌉 Transfer learning | Applying knowledge across domains is hard and must be practiced explicitly |
-| 🪞 Metacognition | Thinking about your own thinking — #1 predictor of learning success |
+| 💭 Metacognition | Thinking about your own thinking — #1 predictor of learning success |
 
 > 💼 **Daily reality:** Designing learning experiences, analyzing what works, iterating based on feedback, and fighting the "just add more content" instinct.
 
@@ -57,7 +57,7 @@ Learning science studies **how people acquire, retain, and apply knowledge**.
 2. 🎯 Pick one skill to study for 7 days
 3. 📊 After 7 days, analyze: Which method had the highest retention? What pattern do you see?
 
-> 🪞 **Reflection:** Did the self-experiment feel like science or like homework?
+> 💭 **Reflection:** Did the self-experiment feel like science or like homework?
 
 ---
 
@@ -82,7 +82,7 @@ Learning science studies **how people acquire, retain, and apply knowledge**.
    - 💡 **Why it matters** (what changes if this is true?)
    - 🎯 **One practical tip** (what can someone do today?)
 
-> 🪞 **Reflection:** Did simplifying feel like losing nuance, or like gaining clarity?
+> 💭 **Reflection:** Did simplifying feel like losing nuance, or like gaining clarity?
 
 ---
 
@@ -106,7 +106,7 @@ Learning science studies **how people acquire, retain, and apply knowledge**.
 
 3. 🧪 Give it to one person (or imagine giving it) — where do they get confused?
 
-> 🪞 **Reflection:** Do you find yourself naturally organizing knowledge for others?
+> 💭 **Reflection:** Do you find yourself naturally organizing knowledge for others?
 
 ---
 
@@ -130,7 +130,7 @@ Learning science studies **how people acquire, retain, and apply knowledge**.
 
 3. ✍️ Write 3 specific, actionable improvements
 
-> 🪞 **Reflection:** Did you enjoy the critical analysis? Could you do this professionally?
+> 💭 **Reflection:** Did you enjoy the critical analysis? Could you do this professionally?
 
 ---
 
@@ -156,7 +156,7 @@ Learning science studies **how people acquire, retain, and apply knowledge**.
 
 </details>
 
-> 🪞 **Reflection:** Was the simplification satisfying or frustrating? Where did you get stuck?
+> 💭 **Reflection:** Was the simplification satisfying or frustrating? Where did you get stuck?
 
 ---
 

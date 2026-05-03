@@ -57,7 +57,7 @@ Agricultural technology and food security combine **biology, logistics, data sci
 
 3. ✍️ Write one sentence: "The category that interests me most is ___ because ___"
 
-> 🪞 **Reflection:** Which layer of the food system draws you — the field 🌾, the lab 🔬, or the data 📊?
+> 💭 **Reflection:** Which layer of the food system draws you — the field 🌾, the lab 🔬, or the data 📊?
 
 ---
 
@@ -83,7 +83,7 @@ Agricultural technology and food security combine **biology, logistics, data sci
 └── 📏 Success Metric (one measurable outcome)
 ```
 
-> 🪞 **Reflection:** Could you see yourself working on problems where results are measured in harvests, not release cycles?
+> 💭 **Reflection:** Could you see yourself working on problems where results are measured in harvests, not release cycles?
 
 ---
 
@@ -106,7 +106,7 @@ Agricultural technology and food security combine **biology, logistics, data sci
 
 2. 🧪 Test your checklist on one real AgTech problem
 
-> 🪞 **Reflection:** Did the structured evaluation feel natural, or did you want to jump straight to solutions?
+> 💭 **Reflection:** Did the structured evaluation feel natural, or did you want to jump straight to solutions?
 
 ---
 
@@ -129,7 +129,7 @@ Agricultural technology and food security combine **biology, logistics, data sci
 
 3. 🔍 Identify the **single biggest waste hotspot** and one technology that could reduce it
 
-> 🪞 **Reflection:** Did the systems mapping feel like a puzzle or a chore?
+> 💭 **Reflection:** Did the systems mapping feel like a puzzle or a chore?
 
 ---
 
@@ -153,7 +153,7 @@ Agricultural technology and food security combine **biology, logistics, data sci
 3. ❓ Where is the biggest gap? Farm, storage, transport, or retail?
 4. 🔧 Propose one intervention for the biggest gap
 
-> 🪞 **Reflection:** Can you handle working on problems where the solution involves convincing people, not just building technology?
+> 💭 **Reflection:** Can you handle working on problems where the solution involves convincing people, not just building technology?
 
 ---
 
